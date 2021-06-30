@@ -127,7 +127,7 @@ Here is our application working.
 
 ## Bonus 1 - Running AR Apps in the Emulator
 
-To do it you might download the ARCore SDK apk from [here](https://github.com/google-ar/arcore-android-sdk/releases)
+To do it you might want to download the ARCore SDK apk from [here](https://github.com/google-ar/arcore-android-sdk/releases)
 and install it in your emulator running this command:
 
 ```
